@@ -1,0 +1,6 @@
+C:\Users\James\Documents\GitHub\Euler-3\Euler 3\bin\Debug\Euler 3.exe.config
+C:\Users\James\Documents\GitHub\Euler-3\Euler 3\bin\Debug\Euler 3.exe
+C:\Users\James\Documents\GitHub\Euler-3\Euler 3\bin\Debug\Euler 3.pdb
+C:\Users\James\Documents\GitHub\Euler-3\Euler 3\obj\Debug\Euler 3.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\GitHub\Euler-3\Euler 3\obj\Debug\Euler 3.exe
+C:\Users\James\Documents\GitHub\Euler-3\Euler 3\obj\Debug\Euler 3.pdb

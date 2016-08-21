@@ -1,0 +1,9 @@
+C:\Users\James\AppData\Local\Temporary Projects\Euler 11\bin\Debug\Euler 11.exe.config
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 11\Euler 11\bin\Debug\Euler 11.exe.config
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 11\Euler 11\bin\Debug\Euler 11.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 11\Euler 11\bin\Debug\Euler 11.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 11\Euler 11\bin\Debug\PrimeOps.dll
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 11\Euler 11\bin\Debug\PrimeOps.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 11\Euler 11\obj\Debug\Euler 11.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 11\Euler 11\obj\Debug\Euler 11.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 11\Euler 11\obj\Debug\Euler 11.pdb

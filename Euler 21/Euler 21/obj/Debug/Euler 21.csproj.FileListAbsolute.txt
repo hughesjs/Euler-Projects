@@ -1,0 +1,6 @@
+C:\Users\James\AppData\Local\Temporary Projects\Euler 21\bin\Debug\Euler 21.exe.config
+C:\Users\James\AppData\Local\Temporary Projects\Euler 21\bin\Debug\Euler 21.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 21\bin\Debug\Euler 21.pdb
+C:\Users\James\AppData\Local\Temporary Projects\Euler 21\obj\Debug\Euler 21.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 21\obj\Debug\Euler 21.pdb
+C:\Users\James\AppData\Local\Temporary Projects\Euler 21\obj\Debug\Euler 21.csprojResolveAssemblyReference.cache

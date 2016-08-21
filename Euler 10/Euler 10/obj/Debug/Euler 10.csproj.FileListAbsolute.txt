@@ -1,0 +1,9 @@
+C:\Users\James\AppData\Local\Temporary Projects\Euler 10\bin\Debug\Euler 10.exe.config
+C:\Users\James\AppData\Local\Temporary Projects\Euler 10\bin\Debug\Euler 10.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 10\bin\Debug\Euler 10.pdb
+C:\Users\James\AppData\Local\Temporary Projects\Euler 10\obj\Debug\Euler 10.csprojResolveAssemblyReference.cache
+C:\Users\James\AppData\Local\Temporary Projects\Euler 10\obj\Debug\Euler 10.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 10\obj\Debug\Euler 10.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 10\Euler 10\bin\Debug\Euler 10.exe.config
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 10\Euler 10\obj\Debug\Euler 10.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 10\Euler 10\obj\Debug\Euler 10.pdb

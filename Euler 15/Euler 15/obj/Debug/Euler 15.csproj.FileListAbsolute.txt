@@ -1,0 +1,12 @@
+C:\Users\James\AppData\Local\Temporary Projects\Euler 15\bin\Debug\Euler 15.exe.config
+C:\Users\James\AppData\Local\Temporary Projects\Euler 15\bin\Debug\Euler 15.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 15\bin\Debug\Euler 15.pdb
+C:\Users\James\AppData\Local\Temporary Projects\Euler 15\obj\Debug\Euler 15.csprojResolveAssemblyReference.cache
+C:\Users\James\AppData\Local\Temporary Projects\Euler 15\obj\Debug\Euler 15.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 15\obj\Debug\Euler 15.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 15\Euler 15\bin\Debug\Euler 15.exe.config
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 15\Euler 15\obj\Debug\Euler 15.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 15\Euler 15\obj\Debug\Euler 15.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 15\Euler 15\bin\Debug\Euler 15.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 15\Euler 15\bin\Debug\Euler 15.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 15\Euler 15\obj\Debug\Euler 15.csprojResolveAssemblyReference.cache

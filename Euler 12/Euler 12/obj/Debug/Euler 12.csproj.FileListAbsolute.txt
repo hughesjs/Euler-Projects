@@ -1,0 +1,16 @@
+C:\Users\James\AppData\Local\Temporary Projects\Euler 12\bin\Debug\Euler 12.exe.config
+C:\Users\James\AppData\Local\Temporary Projects\Euler 12\bin\Debug\Euler 12.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 12\bin\Debug\Euler 12.pdb
+C:\Users\James\AppData\Local\Temporary Projects\Euler 12\bin\Debug\FactorOps.dll
+C:\Users\James\AppData\Local\Temporary Projects\Euler 12\bin\Debug\FactorOps.pdb
+C:\Users\James\AppData\Local\Temporary Projects\Euler 12\obj\Debug\Euler 12.csprojResolveAssemblyReference.cache
+C:\Users\James\AppData\Local\Temporary Projects\Euler 12\obj\Debug\Euler 12.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 12\obj\Debug\Euler 12.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 12\Euler 12\bin\Debug\Euler 12.exe.config
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 12\Euler 12\obj\Debug\Euler 12.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 12\Euler 12\obj\Debug\Euler 12.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 12\Euler 12\bin\Debug\Euler 12.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 12\Euler 12\bin\Debug\Euler 12.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 12\Euler 12\bin\Debug\FactorOps.dll
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 12\Euler 12\bin\Debug\FactorOps.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 12\Euler 12\obj\Debug\Euler 12.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\James\AppData\Local\Temporary Projects\Euler 28\bin\Debug\Euler 28.exe.config
+C:\Users\James\AppData\Local\Temporary Projects\Euler 28\bin\Debug\Euler 28.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 28\bin\Debug\Euler 28.pdb
+C:\Users\James\AppData\Local\Temporary Projects\Euler 28\obj\Debug\Euler 28.csprojResolveAssemblyReference.cache
+C:\Users\James\AppData\Local\Temporary Projects\Euler 28\obj\Debug\Euler 28.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 28\obj\Debug\Euler 28.pdb

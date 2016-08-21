@@ -1,0 +1,5 @@
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 19\Euler 19\bin\Debug\Euler 19.exe.config
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 19\Euler 19\bin\Debug\Euler 19.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 19\Euler 19\bin\Debug\Euler 19.pdb
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 19\Euler 19\obj\Debug\Euler 19.exe
+C:\Users\James\Documents\Visual Studio 2015\Projects\Euler 19\Euler 19\obj\Debug\Euler 19.pdb

@@ -1,0 +1,5 @@
+C:\Users\James\AppData\Local\Temporary Projects\Euler 14\bin\Debug\Euler 14.exe.config
+C:\Users\James\AppData\Local\Temporary Projects\Euler 14\bin\Debug\Euler 14.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 14\bin\Debug\Euler 14.pdb
+C:\Users\James\AppData\Local\Temporary Projects\Euler 14\obj\Debug\Euler 14.exe
+C:\Users\James\AppData\Local\Temporary Projects\Euler 14\obj\Debug\Euler 14.pdb
