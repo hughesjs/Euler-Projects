@@ -14,7 +14,7 @@ fn main() {
             }
         }
     }
-    println!("{} is the largest palindromic number that is a product of two numbers in the range 0 -> {}", largest, max);    
+    println!("{}", largest.to_string());    
 }
 
 fn is_palindrome(n: i32) -> bool

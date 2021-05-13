@@ -10,7 +10,7 @@ fn main() {
         {
             if is_prime(i)
             {
-                println!("{} is the largest prime factor of {}", i, target);
+                println!("{}", i);
                 break;
             }
         }
